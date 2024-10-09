@@ -1,1 +1,1 @@
-# Health-Couch a Parkinson 
+# Health-Couch a Parkinson disease 
